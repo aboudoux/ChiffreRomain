@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChiffreRomain", "ChiffreRomain\ChiffreRomain.csproj", "{20B37BEC-BB46-4FDD-BBE0-CFABA60A2C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanLib", "RomanLib\RomanLib.csproj", "{DC3C5677-834D-4B92-8350-4454F8D5CD4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanLibTests", "RomanLibTests\RomanLibTests.csproj", "{6DCAE5E8-95C5-42B6-87E6-9E0BDD670A92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20B37BEC-BB46-4FDD-BBE0-CFABA60A2C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B37BEC-BB46-4FDD-BBE0-CFABA60A2C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B37BEC-BB46-4FDD-BBE0-CFABA60A2C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B37BEC-BB46-4FDD-BBE0-CFABA60A2C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3C5677-834D-4B92-8350-4454F8D5CD4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3C5677-834D-4B92-8350-4454F8D5CD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3C5677-834D-4B92-8350-4454F8D5CD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3C5677-834D-4B92-8350-4454F8D5CD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DCAE5E8-95C5-42B6-87E6-9E0BDD670A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCAE5E8-95C5-42B6-87E6-9E0BDD670A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCAE5E8-95C5-42B6-87E6-9E0BDD670A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCAE5E8-95C5-42B6-87E6-9E0BDD670A92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
